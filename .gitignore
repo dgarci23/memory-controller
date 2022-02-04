@@ -1,0 +1,11 @@
+*
+!.gitignore
+!*/
+!*.sv
+!*.v
+!*.mem
+!*.png
+!*.md
+!*.py
+!*.qpf
+!*.sh
